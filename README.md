@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-    ──「 sᴏɴᴀʟɪ ᴍᴜsɪᴄ ʙᴏᴛ 」──
+    ──「 ᴄᴏғғɪɴ ᴍᴜsɪᴄ ʙᴏᴛ 」──
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center"><a href="https://t.me/TheSigmaCoder"><img src="https://files.catbox.moe/51hg4v.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/TheSigmaCoder"><img src="https://files.catbox.moe/gaompc.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -80,17 +80,17 @@
 
 <p align="center">  
   <!-- Dev -->  
-  <a href="https://t.me/TheSigmaCoder">  
-    <img src="https://img.shields.io/badge/ᴅᴇᴠ-ᴀʟᴘʜᴀ-ff9800?style=for-the-badge&logo=telegram&logoColor=white"/> 
+  <a href="https://t.me/valoex">  
+    <img src="https://img.shields.io/badge/ᴅᴇᴠ-ғᴀᴅᴇᴅ-ff9800?style=for-the-badge&logo=telegram&logoColor=white"/> 
   </a>  
 
-  <!-- Purvi Bots -->    
-  <a href="https://t.me/purvi_bots">  
+  <!-- Faded Bots -->    
+  <a href="https://t.me/NexaMeetup">  
     <img src="https://img.shields.io/badge/ᴘᴜʀᴠ𝙸-%20ʙᴏᴛs-2196f3?style=for-the-badge&logo=telegram&logoColor=white"/> 
   </a>  
 
   <!-- Instagram -->    
-  <a href="https://instagram.com/careless__02">  
+  <a href="https://instagram.com/_adii_thakur___">  
     <img src="https://img.shields.io/badge/𝙸ɴѕᴛᴀɢʀᴀᴍ-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>  
   </a>  
 </p>  
