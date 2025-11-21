@@ -5,7 +5,10 @@ beautifulsoup4
 dnspython
 ffmpeg-python
 future==0.18.3
-httpx[http2]
+
+# FIXED httpx version (required by gpytranslate + youtube-search-python)
+httpx[http2]==0.28.1
+
 search_engine_parser
 telethon==1.33.1
 gitpython
@@ -23,11 +26,16 @@ requests
 qrcode
 SafoneAPI==1.0.65
 tgcrypto
-gpytranslate
+
+# FIXED gpytranslate (compatible with httpx 0.28.x)
+gpytranslate==2.0.0
+
 MukeshAPI
-search_engine_parser
 googlesearch-python
-youtube-search-python
+
+# FIXED youtube-search-python (latest stable supporting new httpx)
+youtube-search-python==1.6.9
+
 spotipy
 telegraph
 speedtest-cli
@@ -37,6 +45,8 @@ wget
 bing-image-urls
 bing_image_downloader
 py-yt-search
+
+# Git sources
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
 git+https://github.com/yt-dlp/yt-dlp.git
 git+https://github.com/alexmercerind/youtube-search-python@main
