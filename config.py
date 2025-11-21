@@ -33,14 +33,14 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
 # ===============================================
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TEAMPURVI/SONALI_MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Destroyerofworldd/coffinXfaded")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)  
 
 # ===============================================
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_BOTS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PURVI_UPDATES")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NexaMeetup")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+TaJIybIk691hNmE1")
 
 # ===============================================
 
@@ -76,19 +76,19 @@ confirmer = {}
 
 # ===============================================
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/6borug.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/9cevdg.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/xn6mij.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/j9s7od.jpg")
 
-PLAYLIST_IMG_URL = "https://files.catbox.moe/i493lf.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/i0qmgf.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/8e3552aa743ffdb6f18c9.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/8e3552aa743ffdb6f18c9.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/k207lb.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/q9l16t.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/k207lb.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/k207lb.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/k207lb.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/k207lb.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/k207lb.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/k207lb.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/k207lb.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/k207lb.jpg"
 
 # ===============================================
 
