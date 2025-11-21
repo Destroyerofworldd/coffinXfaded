@@ -4,7 +4,7 @@ import random
 import requests
 from SONALI import app 
 
-SUPPORT_CHAT = " @NexaMeetup"
+SUPPORT_CHAT = "NexaMeetup"
 
 @app.on_message(filters.command("wish"))
 async def wish(_, m):
