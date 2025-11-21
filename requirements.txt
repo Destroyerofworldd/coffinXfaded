@@ -34,7 +34,7 @@ MukeshAPI
 googlesearch-python
 
 # FIXED youtube-search-python (latest stable supporting new httpx)
-youtube-search-python==1.6.9
+youtube-search-python
 
 spotipy
 telegraph
