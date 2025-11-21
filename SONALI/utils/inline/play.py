@@ -76,7 +76,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text=" 𝗝ᴏɪɴ 🤌 ", url="https://t.me/NexaMeetup",
+                text=" 𝗝ᴏɪɴ 🤌 ", url="https://t.me/NexaCoders",
             ),
             InlineKeyboardButton(
                 text="🌸 𝗦ᴜᴘᴘᴏʀᴛ 🌸", url="https://t.me/+TaJIybIk691hNmE1",
@@ -99,7 +99,7 @@ def stream_markup(_, videoid, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="𝗝ᴏɪɴ 🤌", url="https://t.me/NexaMeetup",
+                text="𝗝ᴏɪɴ 🤌", url="https://t.me/NexaCoders",
             ),
             InlineKeyboardButton(
                 text="🌸 𝗦ᴜᴘᴘᴏʀᴛ 🌸", url="https://t.me/+TaJIybIk691hNmE1",
